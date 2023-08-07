@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.todoContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 600px;
+}
+.buttonStyle {
+  color: #ff0b37;
+  border: 1px solid #ff0b37;
+  padding: 7px;
+  margin: 10px;
+  background-color: #ffffff;
+  border-radius: 7px;
+  cursor: pointer;
+  outline: none;
+}
